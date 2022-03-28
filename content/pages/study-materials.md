@@ -2,11 +2,12 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Study Materials
 uid: 668f4c03-06d5-3afd-26e8-cbeeb4642b84
 ---
 
-Some Pointers for Writing Papers in Literature Courses ([PDF]({{< baseurl >}}/resources/som_point_f_writ))
+Some Pointers for Writing Papers in Literature Courses ({{< resource_link fc152e21-356a-6b44-8d1b-c9bee0281615 "PDF" >}})
 
 Selective Chronology of Events
 ------------------------------
