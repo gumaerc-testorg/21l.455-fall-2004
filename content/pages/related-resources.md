@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides links to on-line resources useful for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: b79d1611-3f76-742e-7d0b-f32bb2138636
 ---

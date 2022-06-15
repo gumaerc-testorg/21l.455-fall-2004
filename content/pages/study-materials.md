@@ -1,13 +1,15 @@
 ---
 content_type: page
+description: This section provides tips for writing papers in literature courses,
+  a selective chronology of the golden age of Augustan Rome, and a summary of Roman
+  officials and their duties.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Study Materials
 uid: 668f4c03-06d5-3afd-26e8-cbeeb4642b84
 ---
 
-Some Pointers for Writing Papers in Literature Courses ({{< resource_link fc152e21-356a-6b44-8d1b-c9bee0281615 "PDF" >}})
+Some Pointers for Writing Papers in Literature Courses ({{% resource_link fc152e21-356a-6b44-8d1b-c9bee0281615 "PDF" %}})
 
 Selective Chronology of Events
 ------------------------------
