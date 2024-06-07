@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions, guidelines, and suggestions for written assignments.
 file: /courses/21l-455-classical-literature-the-golden-age-of-augustan-rome-fall-2004/fc152e21356a6b448d1bc9bee0281615_som_point_f_writ.pdf
+file_size: 98695
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
