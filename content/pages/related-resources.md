@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to on-line resources useful for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b79d1611-3f76-742e-7d0b-f32bb2138636
 ---
-
-On-Line Resources
------------------
+## On-Line Resources
 
 ### Classical Literature
 
@@ -17,8 +16,6 @@ On-Line Resources
 [Perseus Digital Library](http://www.perseus.tufts.edu/)
 
 [Project Libellus](http://www.hhhh.org/perseant/libellus/)
-
-[Bibliotheca Latina](http://www.gutenberg.org/files/27672/27672-h/files/comm.html)
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
@@ -39,8 +36,6 @@ On-Line Resources
 [Resource Pages for Biblical Studies](http://www.torreys.org/bible/)
 
 [Christian Classics Ethereal Library](http://www.ccel.org/)
-
-[The Ecole Initiative](http://mahan.wonkwang.ac.kr/link/med/christianity/earlysources/document.html)
 
 [Bibliotheca Augustana](http://www.fh-augsburg.de/~harsch/augustana.html)
 
@@ -150,7 +145,7 @@ Giovanni Boccaccio
 
 ### Secondary Sources
 
-[Speculum](http://www.medievalacademy.org/?page=Speculum)
+[Speculum](https://www.medievalacademy.org/page/Forthcoming)
 
 [The Chaucer Review](http://www.psupress.org/journals/jnls_chaucer.html)
 
