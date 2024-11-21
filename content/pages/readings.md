@@ -125,7 +125,7 @@ Strategies of Accommodation
 
 Horace. *Satires.* Book I.
 
-(Text available [on-line](http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.02.0063) through the Perseus Project.)
+(Text available [on-line](https://www.perseus.tufts.edu/hopper/text?doc=Hor.+S.+1.1&fromdoc=Perseus%3Atext%3A1999.02.0063) through the Perseus Project.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -153,7 +153,7 @@ The Politics of Pastoral
 
 Virgil. *Eclogues*.
 
-(Text available [on-line](http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.02.0057) through the Perseus Project.)
+(Text available [on-line](https://www.perseus.tufts.edu/hopper/text?doc=Verg.+Ecl.+1&fromdoc=Perseus%3Atext%3A1999.02.0057) through the Perseus Project.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
